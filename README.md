@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @olgaalexee
+- 👋 Hi, I’m Olga
 - 👀 I’m interested in web development, data visualisation and narrative design
 - 🌱 I’m currently learning DS/ML and relevant mathematics & statistics concepts, as well as web development for data visualisation applications
 - 💞️ I’m looking to collaborate on B2C and B2B data-driven products that have transformative potential and can make a meaningful impact for everyday life
