@@ -16,6 +16,7 @@ Small, practical tools, mostly Claude skills and data utilities I use in real wo
 |---|---|
 | [scout-skill](https://github.com/gaiaengineer/scout-skill) | Agentic outreach pipeline for Claude Code: discover → research → personalize → send, with Google Sheets and Smartlead integrations |
 | [manuscript-triage](https://github.com/gaiaengineer/manuscript-triage) | Claude skill that reads book submissions and reports craft metrics, structure and editing burden, with no score and no claim without a quote |
+| [book-appraisal](https://github.com/gaiaengineer/book-appraisal) | Claude skill that compares a manuscript with a quoted, sourced corpus of recent bestsellers, and says plainly what the score can't see |
 
 ### Toolkit
 
