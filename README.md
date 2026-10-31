@@ -21,9 +21,9 @@ Small, practical tools, mostly Claude skills and data utilities I use in real wo
 
 ### Toolkit
 
-**Product & delivery:** strategy, discovery, roadmaps, 0-to-1 launches, technical program management
-**Data:** SQL, Python (pandas, NumPy, scikit-learn), PostgreSQL, BigQuery, Tableau, Amplitude
-**Building:** AI agents & MCP, Claude Code, Cursor, REST APIs, Git, interactive prototypes
+- **Product & delivery:** strategy, discovery, roadmaps, 0-to-1 launches, technical program management
+- **Data:** SQL, Python (pandas, NumPy, scikit-learn), PostgreSQL, BigQuery, Tableau, Amplitude
+- **Building:** AI agents & MCP, Claude Code, Cursor, REST APIs, Git, interactive prototypes
 
 ### Contact
 
