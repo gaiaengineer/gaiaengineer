@@ -18,6 +18,7 @@ Small, practical tools, mostly Claude skills and data utilities I use in real wo
 | [manuscript-triage](https://github.com/gaiaengineer/manuscript-triage) | Claude skill that reads book submissions and reports craft metrics, structure and editing burden, with no score and no claim without a quote |
 | [book-appraisal](https://github.com/gaiaengineer/book-appraisal) | Claude skill that compares a manuscript with a quoted, sourced corpus of recent bestsellers, and says plainly what the score can't see |
 | [mini-analytics](https://github.com/gaiaengineer/mini-analytics) | Lightweight Metabase alternative: CSV exports in, static dashboards out, every chart backed by plain SQL (DuckDB, Plotly) |
+| [mini-web-editor](https://github.com/gaiaengineer/mini-web-editor) | Book editor that runs entirely in the browser: lightweight formatting, autosaved drafts, images and a live table of contents, with valid EPUB export (ProseMirror, Next.js) |
 
 ### Toolkit
 
