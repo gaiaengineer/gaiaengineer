@@ -2,8 +2,8 @@
 
 Senior product and project manager (PdM/PjM) with C-level and co-founding experience, and a field CTO attitude. For 15+ years I've led product and engineering teams: I turn business goals into tech that ships.
 
-- **Now:** co-founder of [written.app](https://authors.written.app/), a direct-to-reader publishing platform (30k+ users since open beta), where I lead product and act as field CTO
-- **Before:** CPO, then Managing Director at [Bookmate](https://bookmate.com/about), a subscription reading app with 13M users; product lead for logistics IT at Lamoda; technical manager at Netcracker (NEC Group)
+- **Now:** Head of Product and co-founder of [written.app](https://authors.written.app/), a direct-to-reader publishing platform (30k+ users since open beta), where I lead product and act as field CTO
+- **Before:** Head of Product at [Bookmate](https://bookmate.com/about), a subscription reading app with 13M users; product lead for logistics IT at Lamoda; technical manager at Netcracker (NEC Group)
 - **Background:** MSc in Information Technology (cybernetics, digital signal processing for medical equipment)
 - **Languages:** English, French, Japanese (N3, N2 in progress), Italian, Spanish
 - **Open to relocation:** Japan · Singapore · South Korea · Canada
