@@ -7,7 +7,10 @@ I build products where stories get made, told and lived. For 15+ years I’ve le
 - **Making:** real-time visuals in TouchDesigner (certified), Unreal Engine in progress
 - **Background:** MSc in Information Technologies (cybernetics, digital signal processing for medical equipment), and a specialist degree in digital archives and automated document systems
 - **Languages:** English, French, Japanese (N3, N2 in progress), Italian, Spanish
-- **Next:** creative tools, games, studios and story platforms. Open to relocation to Japan, Singapore, South Korea and Canada
+
+### Next, hopefully
+
+Looking for my path into creative tech, gamedev, studios (VFX, animation, visual development, immersive and interactive installations), story platforms or media. Open to relocation to Japan, Singapore, South Korea and Canada.
 
 ### What I build here
 
