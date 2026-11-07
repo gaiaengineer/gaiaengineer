@@ -1,6 +1,6 @@
 ### Hi, I'm Olga
 
-I build products where stories get made, told and lived. For 15+ years I've led product and engineering teams, most recently for readers and authors. I go deeper into the technology than most product people, and I build small tools myself.
+I build products where stories get made, told and lived. For 15+ years I’ve led product and engineering teams, always asking three things at once: will people love it, will it sell, will it scale? Nerdiest product person in the room. Star Trek fan, sci-fi reader and writer, maker of small tools and strange real-time visuals.
 
 - **Now:** Head of Product at [written.app](https://authors.written.app/), a direct-to-reader publishing platform I also co-founded (30k+ users since open beta)
 - **Before:** Head of Product at [Bookmate](https://bookmate.com/about), a subscription reading app with 13M users; product lead for logistics IT at Lamoda; technical manager at Netcracker (NEC Group)
