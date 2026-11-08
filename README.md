@@ -2,7 +2,7 @@
 
 I build products where stories get made, told and lived. For 15+ years I’ve led product and engineering teams, always asking three things at once: will people love it, will it sell, will it scale? Nerdiest product person in the room. Star Trek fan, sci-fi reader and writer, maker of small tools and strange real-time visuals.
 
-- **Now:** Head of Product at [written.app](https://authors.written.app/), a direct-to-reader publishing platform I also co-founded (40k+ users since open beta)
+- **Now:** Head of Product at [written.app](https://authors.written.app/), a creator economy reader-to-author platform I also co-founded (40k+ users since open beta)
 - **Before:** Head of Product at [Bookmate](https://bookmate.com/about), a subscription reading app with 13M users; product lead for logistics IT at Lamoda; technical manager at Netcracker (NEC Group)
 - **Making:** real-time visuals in TouchDesigner (certified), Unreal Engine in progress
 - **Background:** MSc in Information Technologies (cybernetics, digital signal processing for medical equipment), and a specialist degree in digital archives and automated document systems
